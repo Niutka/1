@@ -15,8 +15,7 @@
   - Quadro K4100M (4 GB)
 
 ## Фото
-![Фото ноутбука/ПК](https://kompbu.com/wp-content/uploads/2020/11/Dell-Precision-m6800-3.jpg)
-
-![Фото ноутбука/ПК](https://m.media-amazon.com/images/I/61KbgjxjPmL._AC_SX679_.jpg)
 
 ![Фото ноутбука/ПК](https://setka.ua/upload/resize_cache/iblock/859/450_450_140cd750bba9870f18aada2478b24840a/d0d2kiuvbg5anhzguupytrhvdd6dwtiu.jpg)
+
+![Фото ноутбука/ПК](https://m.media-amazon.com/images/I/61KbgjxjPmL._AC_SX679_.jpg)
